@@ -8,7 +8,7 @@ public class StartGame {
                 "Аще же не возможете, то будете послани \n" +
                 "НА ВИСИЛИЦУ!\n");
 
-        BackGround world = new BackGround("Забулдыжничество");
+        BackGround world = new BackGround("Забулдыжничество"); //вводим слово, которое отгадываем
         world.startGame();
     }
 }
